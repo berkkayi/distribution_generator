@@ -1,4 +1,4 @@
-# Distirbution Generator
+# Distribution Generator
 
 ## Ne Yapıyor:
 
